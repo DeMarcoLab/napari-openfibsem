@@ -1,10 +1,10 @@
 # napari-openfibsem
 
-[![License MIT](https://img.shields.io/pypi/l/napari-openfibsem.svg?color=green)](https://github.com/patrickcleeve2/napari-openfibsem/raw/main/LICENSE)
+[![License MIT](https://img.shields.io/pypi/l/napari-openfibsem.svg?color=green)](https://github.com/DeMarcoLab/napari-openfibsem/raw/main/LICENSE)
 [![PyPI](https://img.shields.io/pypi/v/napari-openfibsem.svg?color=green)](https://pypi.org/project/napari-openfibsem)
 [![Python Version](https://img.shields.io/pypi/pyversions/napari-openfibsem.svg?color=green)](https://python.org)
-[![tests](https://github.com/patrickcleeve2/napari-openfibsem/workflows/tests/badge.svg)](https://github.com/patrickcleeve2/napari-openfibsem/actions)
-[![codecov](https://codecov.io/gh/patrickcleeve2/napari-openfibsem/branch/main/graph/badge.svg)](https://codecov.io/gh/patrickcleeve2/napari-openfibsem)
+[![tests](https://github.com/DeMarcoLab/napari-openfibsem/workflows/tests/badge.svg)](https://github.com/DeMarcoLab/napari-openfibsem/actions)
+[![codecov](https://codecov.io/gh/DeMarcoLab/napari-openfibsem/branch/main/graph/badge.svg)](https://codecov.io/gh/DeMarcoLab/napari-openfibsem)
 [![napari hub](https://img.shields.io/endpoint?url=https://api.napari-hub.org/shields/napari-openfibsem)](https://napari-hub.org/plugins/napari-openfibsem)
 
 OpenFIBSEM Applications
@@ -31,7 +31,7 @@ You can install `napari-openfibsem` via [pip]:
 
 To install latest development version :
 
-    pip install git+https://github.com/patrickcleeve2/napari-openfibsem.git
+    pip install git+https://github.com/DeMarcoLab/napari-openfibsem.git
 
 
 ## Contributing
@@ -59,7 +59,7 @@ If you encounter any problems, please [file an issue] along with a detailed desc
 [Mozilla Public License 2.0]: https://www.mozilla.org/media/MPL/2.0/index.txt
 [cookiecutter-napari-plugin]: https://github.com/napari/cookiecutter-napari-plugin
 
-[file an issue]: https://github.com/patrickcleeve2/napari-openfibsem/issues
+[file an issue]: https://github.com/DeMarcoLab/napari-openfibsem/issues
 
 [napari]: https://github.com/napari/napari
 [tox]: https://tox.readthedocs.io/en/latest/
