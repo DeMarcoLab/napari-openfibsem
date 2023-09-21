@@ -2,6 +2,9 @@ name: napari-openfibsem
 display_name: OpenFIBSEM Napari
 contributions:
   commands:
+    - id: napari-openfibsem.fibsem
+      python_name: napari_openfibsem.app:fibsem_ui
+      title: OpenFIBSEM UI
     - id: napari-openfibsem.autolamella
       python_name: napari_openfibsem.app:autolamella_ui
       title: AutoLamella UI
@@ -9,6 +12,8 @@ contributions:
       python_name: napari_openfibsem.app:autoliftout_ui
       title: AutoLiftout UI
   widgets:
+    - command: napari-openfibsem.fibsem
+      display_name: OpenFIBSEM UI
     - command: napari-openfibsem.autolamella
       display_name: AutoLamella UI
     - command: napari-openfibsem.autoliftout
