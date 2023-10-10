@@ -5,6 +5,9 @@ contributions:
     - id: napari-openfibsem.fibsem
       python_name: napari_openfibsem.app:fibsem_ui
       title: OpenFIBSEM UI
+    - id: napari-openfibsem.fibsem_image_viewer
+      python_name: napari_openfibsem.app:fibsem_image_viewer
+      title: OpenFIBSEM Image Viewer
     - id: napari-openfibsem.fibem_labelling
       python_name: napari_openfibsem.app:fibsem_labelling_ui
       title: OpenFIBSEM Labelling UI
@@ -17,6 +20,8 @@ contributions:
   widgets:
     - command: napari-openfibsem.fibsem
       display_name: OpenFIBSEM UI
+    - command: napari-openfibsem.fibsem_image_viewer
+      display_name: OpenFIBSEM Image Viewer
     - command: napari-openfibsem.fibem_labelling
       display_name: OpenFIBSEM Labelling UI
     - command: napari-openfibsem.autolamella
