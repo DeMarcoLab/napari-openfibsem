@@ -4,7 +4,7 @@ from fibsem.ui.FibsemLabellingUI import FibsemLabellingUI
 from fibsem.ui.FibsemFeatureLabellingUI import FibsemFeatureLabellingUI
 from fibsem.ui.FibsemImageViewer import FibsemImageViewer
 from autolamella.ui.AutoLamellaUI import AutoLamellaUI
-from autolamella.liftout.ui.AutoLiftoutUIv2 import AutoLiftoutUIv2
+from autolamella.ui.AutoLiftoutUIv2 import AutoLiftoutUIv2
 
 fibsem_ui = FibsemUI
 fibsem_image_viewer = FibsemImageViewer
