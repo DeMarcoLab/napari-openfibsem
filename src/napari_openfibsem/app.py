@@ -9,7 +9,7 @@ from autolamella.ui.AutoLiftoutUIv2 import AutoLiftoutUIv2
 fibsem_ui = FibsemUI
 fibsem_image_viewer = FibsemImageViewer
 fibsem_labelling_ui = FibsemLabellingUI
-fibsem_feature_labelling_ui = FibsemFeatureLabellingUI
+fibsem_keypoint_labelling_ui = FibsemFeatureLabellingUI
 autolamella_ui = AutoLamellaUI
 autoliftout_ui = AutoLiftoutUIv2
 

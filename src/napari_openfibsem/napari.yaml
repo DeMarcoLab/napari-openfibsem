@@ -11,9 +11,9 @@ contributions:
     - id: napari-openfibsem.fibem_labelling
       python_name: napari_openfibsem.app:fibsem_labelling_ui
       title: OpenFIBSEM Image Labelling UI
-    - id: napari-openfibsem.fibsem_feature_labelling_ui
-      python_name: napari_openfibsem.app:fibsem_feature_labelling_ui
-      title: OpenFIBSEM Feature Labelling UI
+    - id: napari-openfibsem.fibsem_keypoint_labelling_ui
+      python_name: napari_openfibsem.app:fibsem_keypoint_labelling_ui
+      title: OpenFIBSEM Keypoint Labelling UI
     - id: napari-openfibsem.autolamella
       python_name: napari_openfibsem.app:autolamella_ui
       title: AutoLamella UI
@@ -27,8 +27,8 @@ contributions:
       display_name: OpenFIBSEM Image Viewer
     - command: napari-openfibsem.fibem_labelling
       display_name: OpenFIBSEM Image Labelling UI
-    - command: napari-openfibsem.fibsem_feature_labelling_ui
-      display_name: OpenFIBSEM Feature Labelling UI
+    - command: napari-openfibsem.fibsem_keypoint_labelling_ui
+      display_name: OpenFIBSEM Keypoint Labelling UI
     - command: napari-openfibsem.autolamella
       display_name: AutoLamella UI
     - command: napari-openfibsem.autoliftout
